@@ -77,7 +77,7 @@ To clone and replicate the project, please follow the steps below:
 6. Fire up the dockers using command `docker compose up` from project root directory. Streamlit app should be running on port 8000 and Flask should be running on port 8090. Happy chatting!
 
 ## Application demo:-
-![Demo GIF](https://github.com/Hmittal15/MedIQ-ChatBot/assets/108916132/423d76c6-98fd-4365-8fee-a55f45fd6cd6)
+![Demo GIF](https://github.com/ibadlaskar/MediCare/blob/main/demo.gif?raw=true)
 
 ## Link to full explanatory video:-
 https://youtu.be/hU_MGfL9Hqo
