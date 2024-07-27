@@ -4,10 +4,10 @@
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-# MedIQ-ChatBot
+# MediCare-ChatBot
 
 ## Introduction
-MedIQ ChatBot is a smart and intuitive platform designed to provide you with medical information and assistance in a convenient and personalized manner. MedIQ chatbot leverages advanced natural language processing and deep learning techniques to simulate a virtual doctor's appointment, addressing your medical queries and concerns.
+MediCare ChatBot is a smart and intuitive platform designed to provide you with medical information and assistance in a convenient and personalized manner. MediCare chatbot leverages advanced natural language processing and deep learning techniques to simulate a virtual doctor's appointment, addressing your medical queries and concerns.
 
 Technologies used in this project
 * Flask
@@ -19,7 +19,7 @@ Technologies used in this project
 ## Files
 
 ```
-📦 MedIQ-ChatBot
+📦 MediCare-ChatBot
 ├─ .github
 │  └─ workflows
 │     ├─ CD-pipeline.yml
@@ -88,4 +88,4 @@ http://34.148.161.201:8000
 ## GitHub CI/CD workflow:
 [![CI Pipeline](https://github.com/Hmittal15/MedIQ-ChatBot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Hmittal15/MedIQ-ChatBot/actions/workflows/docker-image.yml)
 
-## You can find me on <a href="http://www.linkedin.com/in/harshit-mittal-52b292131"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="17" height="17" /></a>
+## You can find me on <a href="linkedin.com/in/ibad-laskar"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="17" height="17" /></a>
