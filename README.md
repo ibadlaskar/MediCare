@@ -1,1 +1,1 @@
-# MediCare
+Welcome to the MediCare ChatBot interface, a smart and intuitive platform designed to provide you with medical information and assistance in a convenient and personalized manner. MediCare chatbot leverages advanced natural language processing and deep learning techniques to simulate a virtual doctor's appointment, addressing your medical queries and concerns.
