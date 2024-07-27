@@ -22,13 +22,9 @@ Technologies used in this project
 📦 MediCare-ChatBot
 ├─ .github
 │  └─ workflows
-│     ├─ CD-pipeline.yml
-│     └─ docker-image.yml
 ├─ .gitignore
 ├─ README.md
-├─ docker-compose.yml
 ├─ flask
-│  ├─ Dockerfile
 │  ├─ chat_model
 │  │  ├─ assets
 │  │  │  └─ .placeholder
@@ -45,7 +41,6 @@ Technologies used in this project
 │  ├─ tokenizer.pickle
 │  └─ train.py
 └─ streamlit
-   ├─ Dockerfile
    ├─ health_bg.jpg
    ├─ home.py
    ├─ pages
@@ -79,13 +74,5 @@ To clone and replicate the project, please follow the steps below:
 ## Application demo:-
 ![Demo GIF](https://github.com/ibadlaskar/MediCare/blob/main/demo.gif?raw=true)
 
-## Link to full explanatory video:-
-https://youtu.be/hU_MGfL9Hqo
-
-## Application public link:
-http://34.148.161.201:8000
-
-## GitHub CI/CD workflow:
-[![CI Pipeline](https://github.com/Hmittal15/MedIQ-ChatBot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Hmittal15/MedIQ-ChatBot/actions/workflows/docker-image.yml)
 
 ## You can find me on <a href="linkedin.com/in/ibad-laskar"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="17" height="17" /></a>
