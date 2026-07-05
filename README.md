@@ -61,15 +61,6 @@ For this task, I used the medical question answer dataset prepared by Lasse Regi
 7. Administered GitHub CI/CD pipeline to automatically build and deploy code, and streamline the development process
 9. Deployed the application on a Google Cloud Platform (GCP) VM instance through a docker compose file, utilizing top-tier cloud computing infrastructure to provide fast and reliable hosting
 
-## Installation
-To clone and replicate the project, please follow the steps below:
-
-1. Open the command line interface (CLI) on your computer.
-2. Navigate to the directory where you want to clone the repository.
-3. Type `git clone https://github.com/Hmittal15/MedIQ-ChatBot.git` and press Enter. This will clone the repository to your local machine.
-4. Navigate into the cloned repository using `cd your-repo`
-5. Pull the docker images from DockerHub using commands- `docker pull mittal15/flask_mediq:latest` and `docker pull mittal15/streamlit_mediq:latest`
-6. Fire up the dockers using command `docker compose up` from project root directory. Streamlit app should be running on port 8000 and Flask should be running on port 8090. Happy chatting!
 
 ## Application demo:-
 ![Demo GIF](https://github.com/ibadlaskar/MediCare/blob/main/demo.gif?raw=true)
